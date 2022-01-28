@@ -12,7 +12,7 @@ header:
   supervision of <a href="http://www.cs.columbia.edu/~vondrick/">Professor Carl Vondrick</a>, in New York 
   (or if you prefer, <i>The city that never sleeps</i>,
   <i>Gotham</i>, <i>The big apple</i>, and a large assortment of
-  <a href="https://en.wikipedia.org/wiki/Nicknames_of_New_York_City">other names</a>).
+  <a href="https://en.wikipedia.org/wiki/Nicknames_of_New_York_City">other names</a>). I am also a Microsoft PhD fellow.
 </p>
 
 <p>
