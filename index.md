@@ -28,6 +28,6 @@ Adobe with <a href="https://www.justinsalamon.com">Justin Salamon</a> and <a hre
 </p>
 
 <p>
-  In my free time, I like to play the classical guitar. Maybe (probably not) some day I'll upload some recording of me playing.
+  In my free time, I like to play the classical guitar. Maybe (probably not) some day I'll upload some recording of me playing. Also, <a href="https://www.cs.columbia.edu/2022/phd-didac-suris/">I got interviewed</a> by the Columbia CS department about my experience as a PhD student.
 </p>
 
