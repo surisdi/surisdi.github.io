@@ -24,7 +24,7 @@ the areas of artificial intelligence that involve using all the available inform
 <a href="http://web.mit.edu/torralba/www/">Professor Antonio Torralba's lab</a>, and I studied both the 
 undergrad and a Master's in telecommunications in the <a href="https://www.upc.edu/en?set_language=en">UPC</a>, in Barcelona. 
 I have also been lucky to work at Telefonica with <a href="https://joanserra.weebly.com">Joan Serrà</a>, at 
-Adobe with <a href="https://www.justinsalamon.com">Justin Salamon</a> and <a href="https://bryanrussell.org">Bryan Russell</a>, and at Meta (FAIR) with <a href="http://people.csail.mit.edu/yalesong/home/">Yale Song</a> and <a href="https://ltorresa.github.io/home.html">Lorenzo Torresani</a>
+Adobe with <a href="https://www.justinsalamon.com">Justin Salamon</a> and <a href="https://bryanrussell.org">Bryan Russell</a>, and at Meta (FAIR) with <a href="http://people.csail.mit.edu/yalesong/home/">Yale Song</a> and <a href="https://ltorresa.github.io/home.html">Lorenzo Torresani</a>.
 </p>
 
 <p>
