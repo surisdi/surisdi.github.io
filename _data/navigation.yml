@@ -14,8 +14,8 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "Curriculum"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
 #  - title: "Blog"
 #    url: /blog/
 #    description: 'Some random notes'
