@@ -1,6 +1,6 @@
 # Dídac Surís - Personal Website
 
-Personal academic website for Dídac Surís, PhD student at Columbia University.
+Personal academic website for Dídac Surís, Research Scientist at Meta.
 
 ## Structure
 
